@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sample post
-published: true
-draft: false
+published: false
+draft: true
 categories:
 - blog
 photos:
